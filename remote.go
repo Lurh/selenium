@@ -17,9 +17,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/Lurh/selenium/firefox"
+	"github.com/Lurh/selenium/log"
 	"github.com/blang/semver"
-	"github.com/tebeka/selenium/firefox"
-	"github.com/tebeka/selenium/log"
 )
 
 // Errors returned by Selenium server.
